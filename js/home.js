@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         hiddenBalance.textContent =
             isBalanceVisible
-                ? "13,231,100"
+                ? "12,180,100"
                 : "*** ***";
 
         if (icon) {
