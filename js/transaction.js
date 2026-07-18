@@ -17,12 +17,12 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "IN001",
             type: "income",
             amount: 10000000,
-            date: "2026-07-16",
+            date: "2026-07-17",
             time: "23:35:27",
-            accountName: "NGUYEN VAN THUONG",
-            accountNumber: "787866686",
+            accountName: "HOANG MINH LONG",
+            accountNumber: "739284750",
             description:
-                "NGUYEN VAN THUONG QAATXM0070 APPMB11 thanh toan",
+                "HOANG MINH LONG QAATXM0070 APPMB21 thanh toan",
             code: "FT26197849221026"
         },
 
@@ -30,12 +30,12 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "OUT001",
             type: "outcome",
             amount: 3650000,
-            date: "2026-07-16",
-            time: "23:00:18",
+            date: "2026-07-17",
+            time: "21:00:18",
             accountName: "CUSTOMER MBCT D",
             accountNumber: "19035669878011",
             description:
-                "Media chuyen khoan nhanh qua Zalo",
+                "chuyen khoan nhanh qua Zalo",
             code: "FT26197849221027"
         },
 
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
             date: "2026-07-16",
             time: "21:45:09",
             accountName: "TRAN VAN AN",
-            accountNumber: "0966888999",
+            accountNumber: "7284659100",
             description:
                 "Chuyen khoan thanh toan tien hang",
             code: "FT26197849221028"
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
             date: "2026-07-16",
             time: "19:55:27",
             accountName: "NGUYEN VAN ANH",
-            accountNumber: "19035669878019",
+            accountNumber: "7284659100",
             description:
                 "CUSTOMER TRAN TUAN ANH chuyen tien",
             code: "FT26197849221050"
@@ -69,10 +69,10 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "IN003",
             type: "income",
             amount: 2200000,
-            date: "2026-07-16",
+            date: "2026-07-15",
             time: "19:20:15",
             accountName: "LE THI MAI",
-            accountNumber: "0988777666",
+            accountNumber: "632518367311",
             description:
                 "Thanh toan don hang thang 7",
             code: "FT26197849221051"
@@ -81,11 +81,23 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             id: "OUT003",
             type: "outcome",
-            amount: 100000,
-            date: "2026-07-16",
+            amount: 1000000,
+            date: "2026-07-15",
             time: "18:57:03",
-            accountName: "HOANG DUY THANG",
-            accountNumber: "6620177229999",
+            accountName: "LE QUOC THIEN",
+            accountNumber: "77635193644491",
+            description:
+                "Chuyen tien",
+            code: "FT26197849221052"
+        },
+ {
+            id: "OUT003",
+            type: "outcome",
+            amount: 1720000,
+            date: "2026-07-15",
+            time: "18:57:03",
+            accountName: "LE QUOC THIEN",
+            accountNumber: "77635193644491",
             description:
                 "Chuyen tien",
             code: "FT26197849221052"
@@ -93,14 +105,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
         /* =========================
-           NGÀY 15/07/2026
+           NGÀY 14/07/2026
         ========================== */
 
         {
             id: "IN004",
             type: "income",
             amount: 850000,
-            date: "2026-07-15",
+            date: "2026-07-14",
             time: "17:40:20",
             accountName: "PHAM MINH DUC",
             accountNumber: "0911222333",
@@ -126,7 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "IN005",
             type: "income",
             amount: 1500000,
-            date: "2026-07-15",
+            date: "2026-07-13",
             time: "15:10:44",
             accountName: "VU QUANG HUY",
             accountNumber: "0933444555",
@@ -139,7 +151,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "OUT005",
             type: "outcome",
             amount: 1200000,
-            date: "2026-07-15",
+            date: "2026-07-13",
             time: "14:22:19",
             accountName: "NGUYEN THI LAN",
             accountNumber: "19035669878021",
@@ -150,14 +162,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
         /* =========================
-           NGÀY 14/07/2026
+           NGÀY 12/07/2026
         ========================== */
 
         {
             id: "IN006",
             type: "income",
             amount: 3000000,
-            date: "2026-07-14",
+            date: "2026-07-12",
             time: "13:18:08",
             accountName: "BUI VAN NAM",
             accountNumber: "0977555444",
@@ -170,9 +182,9 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "OUT006",
             type: "outcome",
             amount: 55555,
-            date: "2026-07-14",
+            date: "2026-07-12",
             time: "12:54:39",
-            accountName: "HOANG DUY THANG",
+            accountName: "TRAN VAN TAM",
             accountNumber: "6620177229999",
             description:
                 "Chuyen tien D2 GG6R4F/803664",
@@ -183,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "IN007",
             type: "income",
             amount: 700000,
-            date: "2026-07-14",
+            date: "2026-07-12",
             time: "11:35:23",
             accountName: "DANG NGOC HA",
             accountNumber: "0909111222",
@@ -195,26 +207,38 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             id: "OUT007",
             type: "outcome",
-            amount: 250000,
-            date: "2026-07-14",
-            time: "10:12:04",
-            accountName: "NGO QUANG VINH",
-            accountNumber: "19035669878022",
+            amount: 20000000,
+            date: "2026-07-12",
+            time: "07:09:03",
+            accountName: "VO MINH SON",
+            accountNumber: "25880711",
             description:
-                "Thanh toan tien hang",
+                "xm8102473180741",
+            code: "FT26197849221060"
+        },
+{
+            id: "OUT007",
+            type: "outcome",
+            amount: 10000000,
+            date: "2026-07-12",
+            time: "06:45:50",
+            accountName: "NGUYEN THI THUY DUONG",
+            accountNumber: "501215996",
+            description:
+                "abd66l3sro",
             code: "FT26197849221060"
         },
 
 
         /* =========================
-           NGÀY 13/07/2026
+           NGÀY 11/07/2026
         ========================== */
 
         {
             id: "IN008",
             type: "income",
             amount: 4250000,
-            date: "2026-07-13",
+            date: "2026-07-11",
             time: "09:48:31",
             accountName: "NGUYEN NHAT MINH",
             accountNumber: "0944555666",
@@ -227,7 +251,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "OUT008",
             type: "outcome",
             amount: 980000,
-            date: "2026-07-13",
+            date: "2026-07-11",
             time: "08:40:17",
             accountName: "TRINH THI HOA",
             accountNumber: "19035669878023",
@@ -238,14 +262,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
         /* =========================
-           NGÀY 12/07/2026
+           NGÀY 10/07/2026
         ========================== */
 
         {
             id: "IN009",
             type: "income",
             amount: 1250000,
-            date: "2026-07-12",
+            date: "2026-07-10",
             time: "21:16:52",
             accountName: "LE QUOC BAO",
             accountNumber: "0922333444",
@@ -269,14 +293,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
         /* =========================
-           NGÀY 11/07/2026
+           NGÀY 09/07/2026
         ========================== */
 
         {
             id: "IN010",
             type: "income",
             amount: 9900000,
-            date: "2026-07-11",
+            date: "2026-07-09",
             time: "18:44:16",
             accountName: "DOAN MINH QUAN",
             accountNumber: "0966777888",
@@ -289,7 +313,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: "OUT010",
             type: "outcome",
             amount: 2100000,
-            date: "2026-07-11",
+            date: "2026-07-09",
             time: "17:32:41",
             accountName: "TRAN THI THU",
             accountNumber: "19035669878025",
