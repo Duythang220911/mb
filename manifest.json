@@ -1,0 +1,19 @@
+{
+    "id": "./",
+    "name": "MB Priority",
+    "short_name": "MB",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#102ccf",
+    "theme_color": "#17283b",
+   "icons": [
+    {
+        "src": "./img/app-icon-full.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }
+]
+}
